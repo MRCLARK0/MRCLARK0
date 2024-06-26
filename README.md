@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Clark</h1>
-<h3 align="center">Early Career Software Engineer</h3>
+<h3 align="center">Software Engineer</h3>
 
 - 📫 How to reach me **mrclark0426@gmail.com**
 
